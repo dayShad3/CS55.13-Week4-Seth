@@ -1,13 +1,11 @@
 import Head from 'next/head';
-import link from 'next/link';
+import Link from 'next/link';
 export default function Layout({children, home}) {
     return(
         <div>
             <Head>
-                <title>
-                    Seth's Week 4 App
-                </title>
-                <link rel="icon" href="https://d39aw01fjrqpws.cloudfront.net/favicon.png" />
+                <title>Seth's Week 4 App</title>
+               
             </Head>
             <header>
                 <nav>
@@ -18,8 +16,8 @@ export default function Layout({children, home}) {
                 {children}
             </main>
             {!home && (
-                <Link href="/" className="btn btn-primary">
-                    Back to home
+                <Link href="/" className="btn btn-primary mt-3">
+                    ← Back to home
                 </Link>
                 
             )
