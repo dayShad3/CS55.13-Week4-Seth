@@ -4,7 +4,7 @@ export default function Layout({children, home}) {
     return(
         <div>
             <Head>
-                <title>Seth's Week 4 App</title>
+                <title>Seths Week 4 App</title>
                
             </Head>
             <header>
