@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Molly Millions",
+        "gender": "woman",
+        "birthplace":"New York City",
+        "alias":"Sally Shears",
+        "id": 1
+    },
+    {
+        "name": "Case",
+        "gender": "man",
+        "birthplace":"The Sprawl",
+        "alias":"Charles Derek May",
+        "id": 2
+    },
+    {
+        "name": "Wintermute",
+        "gender": "AI",
+        "birthplace":"Babylon",
+        "alias":"The Finn",
+        "id": 3
+    },
+    {
+        "name": "3Jane Tessier-Ashpool",
+        "gender": "Woman Clone",
+        "birthplace":"Villa Straylight",
+        "alias":"Lady 3Jane Marie-France",
+        "id": 4
+    }
+]
